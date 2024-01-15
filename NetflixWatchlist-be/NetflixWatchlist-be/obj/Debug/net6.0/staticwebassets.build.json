@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kZRhEZIIZj2RxwRMnX0LWME1LJuLIZFpowxngGWK1wM=",
+  "Source": "NetflixWatchlist-be",
+  "BasePath": "_content/NetflixWatchlist-be",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
